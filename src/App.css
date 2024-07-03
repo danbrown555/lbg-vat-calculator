@@ -22,3 +22,7 @@
 .header{
   padding: 10px;
 }
+
+.body {
+  background-color: lightblue;
+}
